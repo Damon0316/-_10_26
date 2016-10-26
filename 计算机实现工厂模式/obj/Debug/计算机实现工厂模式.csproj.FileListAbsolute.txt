@@ -1,0 +1,6 @@
+C:\Users\dy19\documents\visual studio 2012\Projects\design pattern\计算机实现工厂模式\bin\Debug\计算机实现工厂模式.exe.config
+C:\Users\dy19\documents\visual studio 2012\Projects\design pattern\计算机实现工厂模式\obj\Debug\计算机实现工厂模式.csprojResolveAssemblyReference.cache
+C:\Users\dy19\documents\visual studio 2012\Projects\design pattern\计算机实现工厂模式\bin\Debug\计算机实现工厂模式.exe
+C:\Users\dy19\documents\visual studio 2012\Projects\design pattern\计算机实现工厂模式\bin\Debug\计算机实现工厂模式.pdb
+C:\Users\dy19\documents\visual studio 2012\Projects\design pattern\计算机实现工厂模式\obj\Debug\计算机实现工厂模式.exe
+C:\Users\dy19\documents\visual studio 2012\Projects\design pattern\计算机实现工厂模式\obj\Debug\计算机实现工厂模式.pdb
